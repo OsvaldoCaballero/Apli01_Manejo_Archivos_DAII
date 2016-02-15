@@ -1,0 +1,7 @@
+C:\Users\Osvaldo 3A\Documents\GitHub\Apl1_Manejo_Archivos\Manejo_Archivos_Caballero\bin\Debug\Manejo_Archivos_Caballero.exe
+C:\Users\Osvaldo 3A\Documents\GitHub\Apl1_Manejo_Archivos\Manejo_Archivos_Caballero\bin\Debug\Manejo_Archivos_Caballero.pdb
+C:\Users\Osvaldo 3A\Documents\GitHub\Apl1_Manejo_Archivos\Manejo_Archivos_Caballero\obj\x86\Debug\Manejo_Archivos_Caballero.Form1.resources
+C:\Users\Osvaldo 3A\Documents\GitHub\Apl1_Manejo_Archivos\Manejo_Archivos_Caballero\obj\x86\Debug\Manejo_Archivos_Caballero.Properties.Resources.resources
+C:\Users\Osvaldo 3A\Documents\GitHub\Apl1_Manejo_Archivos\Manejo_Archivos_Caballero\obj\x86\Debug\Manejo_Archivos_Caballero.csproj.GenerateResource.Cache
+C:\Users\Osvaldo 3A\Documents\GitHub\Apl1_Manejo_Archivos\Manejo_Archivos_Caballero\obj\x86\Debug\Manejo_Archivos_Caballero.exe
+C:\Users\Osvaldo 3A\Documents\GitHub\Apl1_Manejo_Archivos\Manejo_Archivos_Caballero\obj\x86\Debug\Manejo_Archivos_Caballero.pdb
