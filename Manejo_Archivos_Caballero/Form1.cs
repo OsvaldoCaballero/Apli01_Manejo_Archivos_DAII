@@ -22,6 +22,8 @@ namespace Manejo_Archivos_Caballero
         {
             CajaTextoEnriquecido.Visible = true;
             CajaTextoEnriquecido.Clear();
+            CajaTextoEnriquecido.Focus();
+            CajaTextoEnriquecido.ReadOnly = false;
             Documento = null;
         }
 
