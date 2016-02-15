@@ -71,14 +71,15 @@ namespace Manejo_Archivos_Caballero
                 using (StreamWriter escribir = new StreamWriter(Documento))
                 { escribir.Write(CajaTextoEnriquecido.Text); }
             }
-
             else
             {
                 if (Guardar.ShowDialog() == DialogResult.OK)
                 {
                     Documento = Guardar.FileName;
                     using (StreamWriter escribir = new StreamWriter(Guardar.FileName))
-                    { escribir.Write(CajaTextoEnriquecido.Text); }
+                    { 
+                        escribir.Write(CajaTextoEnriquecido.Text); 
+                    }
                 }
             }
         }
